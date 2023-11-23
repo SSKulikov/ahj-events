@@ -1,5 +1,5 @@
 # Домашнее задание к занятию "3.Обработка событий"
-![CI](https://github.com/SSKulikov/ahj-events/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/sskulikov/ahj-events/actions/workflows/web.yml/badge.svg)
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
